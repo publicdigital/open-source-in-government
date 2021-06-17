@@ -765,85 +765,58 @@ Netherlands: Open source toolbox released in the Netherlands
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-     This model is inspired by – and designed to complement – the Harvard Maturity Model for Digital Services, which Public Digital contributed to.
+[^1]: This model is inspired by – and designed to complement – the Harvard Maturity Model for Digital Services, which Public Digital contributed to.
     Eaves (2018) Part 2: Proposing A Maturity Model for Digital Services. Available at [https://medium.com/digitalhks/part-2-proposing-a-maturity-model-for-digital-services-9b1d429699e7](https://medium.com/digitalhks/part-2-proposing-a-maturity-model-for-digital-services-9b1d429699e7) 
 
-[^2]:
-     See for example [https://digital.canada.ca/2020/02/24/why-open-source-matters/](https://digital.canada.ca/2020/02/24/why-open-source-matters/) 
+[^2]: See for example [https://digital.canada.ca/2020/02/24/why-open-source-matters/](https://digital.canada.ca/2020/02/24/why-open-source-matters/) 
 
-[^3]:
-     Examples of common open source licenses can be found at https://opensource.org/licenses
+[^3]: Examples of common open source licenses can be found at https://opensource.org/licenses
 
-[^4]:
-     The “free” in “free and open source software” is usually intended to mean free of intellectual property limitations (“free as in speech, not as in beer”) but is too often misunderstood.
+[^4]: The “free” in “free and open source software” is usually intended to mean free of intellectual property limitations (“free as in speech, not as in beer”) but is too often misunderstood.
 
-[^5]:
-     Sahay, S. (2019) ‘Free and open source software as global public goods? What are the distortions and how do we address them?’, The Electronic Journal of Information Systems in Developing Countries, 85(4), e12080. https://doi.org/10.1002/isd2.12080.
+[^5]: Sahay, S. (2019) ‘Free and open source software as global public goods? What are the distortions and how do we address them?’, The Electronic Journal of Information Systems in Developing Countries, 85(4), e12080. https://doi.org/10.1002/isd2.12080.
 
-[^6]:
-     World Bank (2019) _Open Source for Global Public Goods_, Washington, DC: World Bank. [https://openknowledge.worldbank.org/handle/10986/33401](https://openknowledge.worldbank.org/handle/10986/33401) 
+[^6]: World Bank (2019) _Open Source for Global Public Goods_, Washington, DC: World Bank. [https://openknowledge.worldbank.org/handle/10986/33401](https://openknowledge.worldbank.org/handle/10986/33401) 
 
-[^7]:
-     See for example [https://www.linuxfoundation.org/resources/open-source-guides/recruiting-open-source-developers/](https://www.linuxfoundation.org/resources/open-source-guides/recruiting-open-source-developers/) 
+[^7]: See for example [https://www.linuxfoundation.org/resources/open-source-guides/recruiting-open-source-developers/](https://www.linuxfoundation.org/resources/open-source-guides/recruiting-open-source-developers/) 
 
-[^8]:
-     Open Forum Europe (2020), First results: European Commission Open Source Study [First results European Commission Open Source Study](https://openforumeurope.org/wp-content/uploads/2020/11/OFE_Fraunhofer_OS_impact_study_5_Nov.pdf) 
+[^8]: Open Forum Europe (2020), First results: European Commission Open Source Study [First results European Commission Open Source Study](https://openforumeurope.org/wp-content/uploads/2020/11/OFE_Fraunhofer_OS_impact_study_5_Nov.pdf) 
 
-[^9]:
-     In December 2020 EU member states adopted the "Berlin Declaration on Digital Society and Value-Based Digital Government", which agreed to strengthen sovereignty by “Implement[ing] common standards, modular architectures and – when suitable – open source technologies in the development and deployment of cross-border digital solutions.” 
+[^9]: In December 2020 EU member states adopted the "Berlin Declaration on Digital Society and Value-Based Digital Government", which agreed to strengthen sovereignty by “Implement[ing] common standards, modular architectures and – when suitable – open source technologies in the development and deployment of cross-border digital solutions.” 
     [https://www.bmi.bund.de/SharedDocs/pressemitteilungen/EN/2020/12/berlin-declaration-digitalization.html](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/EN/2020/12/berlin-declaration-digitalization.html) 
 
-[^10]:
-     United Nations (2020) Roadmap for Digital Cooperation, Report of the Secretary-General. Available at [https://www.un.org/en/content/digital-cooperation-roadmap/](https://www.un.org/en/content/digital-cooperation-roadmap/)
+[^10]: United Nations (2020) Roadmap for Digital Cooperation, Report of the Secretary-General. Available at [https://www.un.org/en/content/digital-cooperation-roadmap/](https://www.un.org/en/content/digital-cooperation-roadmap/)
 
-[^11]:
-     We define capability as the application of knowledge, skills, and experience to achieve an outcome, as described by Emily Webber. See [https://emilywebber.co.uk/mapping-skills-and-capabilities-with-communities-of-practice/](https://emilywebber.co.uk/mapping-skills-and-capabilities-with-communities-of-practice/)
+[^11]: We define capability as the application of knowledge, skills, and experience to achieve an outcome, as described by Emily Webber. See [https://emilywebber.co.uk/mapping-skills-and-capabilities-with-communities-of-practice/](https://emilywebber.co.uk/mapping-skills-and-capabilities-with-communities-of-practice/)
 
-[^12]:
-     Eaves (2018)_ Part 2: Proposing A Maturity Model for Digital Services. _Available at [https://medium.com/digitalhks/part-2-proposing-a-maturity-model-for-digital-services-9b1d429699e7](https://medium.com/digitalhks/part-2-proposing-a-maturity-model-for-digital-services-9b1d429699e7) 
+[^12]: Eaves (2018)_ Part 2: Proposing A Maturity Model for Digital Services. _Available at [https://medium.com/digitalhks/part-2-proposing-a-maturity-model-for-digital-services-9b1d429699e7](https://medium.com/digitalhks/part-2-proposing-a-maturity-model-for-digital-services-9b1d429699e7) 
 
-[^13]:
-     For more ideas, see exercises related to the Digital Services Maturity Model [https://medium.com/digitalhks/digital-maturity-self-assessment-exercise-735647b2ba23](https://medium.com/digitalhks/digital-maturity-self-assessment-exercise-735647b2ba23) 
+[^13]: For more ideas, see exercises related to the Digital Services Maturity Model [https://medium.com/digitalhks/digital-maturity-self-assessment-exercise-735647b2ba23](https://medium.com/digitalhks/digital-maturity-self-assessment-exercise-735647b2ba23) 
 
-[^14]:
-     For more an empirical assessment, see OSOR - OSS Community Success Factors (2020), p30
+[^14]: For more an empirical assessment, see OSOR - OSS Community Success Factors (2020), p30
     https://joinup.ec.europa.eu/sites/default/files/inline-files/SC272_D05.01_Community_Success_Factors_vFINAL_3.pdf
 
-[^15]:
-     Open Forum Europe (2020), First results: European Commission Open Source Study First results European Commission Open Source Study 
+[^15]: Open Forum Europe (2020), First results: European Commission Open Source Study First results European Commission Open Source Study 
 
-[^16]:
+[^16]: See for example [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/85968/uk-government-government-ict-strategy_0.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/85968/uk-government-government-ict-strategy_0.pdf) 
 
-     See for example [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/85968/uk-government-government-ict-strategy_0.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/85968/uk-government-government-ict-strategy_0.pdf) 
+[^17]: See for example [https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html#](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html#) 
 
-[^17]:
-     See for example [https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html#](https://docs.italia.it/italia/developers-italia/gl-acquisition-and-reuse-software-for-pa-docs/en/stabile/index.html#) 
-
-[^18]:
-
-     See for example [https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en) 
+[^18]: See for example [https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en](https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en) 
 
 [^19]:
      For more discussion on this topic, see the OFE Open Source Policy Series 2021 “The case of OSPSs in Government and Universities” [https://openforumeurope.org/the-ofe-open-source-summit-series-2021/](https://openforumeurope.org/the-ofe-open-source-summit-series-2021/) 
 
-[^20]:
-     Sahay, S. (2019) ‘Free and open source software as global public goods? What are the distortions and how do we address them?’, The Electronic Journal of Information Systems in Developing Countries, 85(4), e12080. [https://doi.org/10.1002/isd2.12080](https://doi.org/10.1002/isd2.12080) 
+[^20]: Sahay, S. (2019) ‘Free and open source software as global public goods? What are the distortions and how do we address them?’, The Electronic Journal of Information Systems in Developing Countries, 85(4), e12080. [https://doi.org/10.1002/isd2.12080](https://doi.org/10.1002/isd2.12080) 
 
-[^21]:
-     World Bank (2020), _Enhancing Government Effectiveness and Transparency: The Fight Against Corruption_. Available at [https://www.worldbank.org/en/topic/governance/publication/enhancing-government-effectiveness-and-transparency-the-fight-against-corruption](https://www.worldbank.org/en/topic/governance/publication/enhancing-government-effectiveness-and-transparency-the-fight-against-corruption) 
+[^21]: World Bank (2020), _Enhancing Government Effectiveness and Transparency: The Fight Against Corruption_. Available at [https://www.worldbank.org/en/topic/governance/publication/enhancing-government-effectiveness-and-transparency-the-fight-against-corruption](https://www.worldbank.org/en/topic/governance/publication/enhancing-government-effectiveness-and-transparency-the-fight-against-corruption) 
 
-[^22]:
-     Open Forum Europe (2020), First results: European Commission Open Source Study [First results European Commission Open Source Study](https://openforumeurope.org/wp-content/uploads/2020/11/OFE_Fraunhofer_OS_impact_study_5_Nov.pdf)
+[^22]: Open Forum Europe (2020), First results: European Commission Open Source Study [First results European Commission Open Source Study](https://openforumeurope.org/wp-content/uploads/2020/11/OFE_Fraunhofer_OS_impact_study_5_Nov.pdf)
 
-[^23]:
-     Open UK (2021) _State of Open: The UK in 2021_. Available at [https://openuk.uk/wp-content/uploads/2021/03/openuk_stateofope2021_report_FINALCHANGES_08.pdf](https://openuk.uk/wp-content/uploads/2021/03/openuk_stateofope2021_report_FINALCHANGES_08.pdf) 
+[^23]: Open UK (2021) _State of Open: The UK in 2021_. Available at [https://openuk.uk/wp-content/uploads/2021/03/openuk_stateofope2021_report_FINALCHANGES_08.pdf](https://openuk.uk/wp-content/uploads/2021/03/openuk_stateofope2021_report_FINALCHANGES_08.pdf) 
 
-[^24]:
-     Sahay, S. (2019) ‘Free and open source software as global public goods? What are the distortions and how do we address them?’, The Electronic Journal of Information Systems in Developing Countries, 85(4), e12080. https://doi.org/10.1002/isd2.12080.
+[^24]: Sahay, S. (2019) ‘Free and open source software as global public goods? What are the distortions and how do we address them?’, The Electronic Journal of Information Systems in Developing Countries, 85(4), e12080. https://doi.org/10.1002/isd2.12080.
 
-[^25]:
-     Arensen, H. (2020) ‘5 Things Digital Public Good Software Projects Need to Scale’, Digital Impact Alliance. Available at [https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/](https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/) 
+[^25]: Arensen, H. (2020) ‘5 Things Digital Public Good Software Projects Need to Scale’, Digital Impact Alliance. Available at [https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/](https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/) 
 
-[^26]:
-     Stack Overflow (2020) _Developer Survey_. Available at [https://insights.stackoverflow.com/survey/2020](https://insights.stackoverflow.com/survey/2020) 
+[^26]: Stack Overflow (2020) _Developer Survey_. Available at [https://insights.stackoverflow.com/survey/2020](https://insights.stackoverflow.com/survey/2020) 
