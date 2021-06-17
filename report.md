@@ -176,7 +176,7 @@ This paper has primarily been written for decision-makers and technology special
 This paper is divided into the following sections:
 
 *   **Open Source Capability Model for Governments** (page 11) introduces a new framework for assessing open source software knowledge, skills and experience in government.
-*   **Conditions for success **(page 18) examines each dimension of the capability model in more detail, and provides practical considerations and questions for governments.
+*   **Conditions for success** (page 18) examines each dimension of the capability model in more detail, and provides practical considerations and questions for governments.
 *   **Conclusion** (page 31) summarises the main takeaways for decision-makers
 
 
@@ -192,7 +192,7 @@ We also spoke to a range of key experts in the open source software community an
 Our research found that the extent of open source software use is highly variable between governments. We found that governments achieving successful outcomes with open source software have embedded practices and policies across four dimensions of capability[^11]: 
 
 1. **Policy environment:** political leadership and legislation; government standards and policy.
-2. **In-house skills and capabilities: **open source leadership and coordination; technical skills or experience in implementing open source software.
+2. **In-house skills and capabilities:** open source leadership and coordination; technical skills or experience in implementing open source software.
 3. **Open source vendor ecosystem:** open source software procurement policy; ecosystem of vendors (national, regional or international).
 4. **Sustainability:** sustainability of funding; ability to manage and maintain software; engagement with the global open source software community.
 
@@ -471,7 +471,7 @@ This could include:
 
 *   **A clear strategy and objectives for adoption of open source software**.[^18] For example, an objective could be to improve digital sovereignty and control of data and key infrastructure. 
 
-                <p style="text-align: right">
+
 <strong><em>“Open architecture drives open source. We focus on open architecture, trying to make things interoperable internally and breaking down silos. Open source can often follow from this”, </em>government official interviewee<em>.</em></strong></p>
 
 
@@ -498,7 +498,7 @@ If you have a policy, consider how the policy will be enforced, and is the use o
 
 Governments’ in-house capacity was cited as a critical condition for success by almost every interviewee. Over time, open source skills and capabilities should be embedded from leadership to delivery: from an identified team responsible for guiding policy, to access to good technical skills. At minimum, there should be in-house leadership of a government’s technology strategy, including their approach to open source. 
 
-**Open source leadership and coordination **
+**Open source leadership and coordination**
 
 In the cases we researched, the role of a central team responsible for support and guidance on the use of open source software was often cited as a core factor in successful implementations. This central team should set policies, guide other parts of government and promote best practices. 
 
@@ -520,13 +520,8 @@ Once the government has that leadership in place, a good way to build experience
 It is common for governments promoting the use of open source software to encourage reuse, and to release publicly-funded software into public repositories. It is not vital, but contributing to the open source community will help build better understanding and experience. 
 
 
-                    <p style="text-align: right">
-<strong><em>[When using open source] "it's easier to find developers. There are more people available with the right skills than if we use licensed software”</em></strong></p>
 
-
-
-        <p style="text-align: right">
-<strong><em>government official interviewee</em></strong></p>
+<strong><em>[When using open source] "it's easier to find developers. There are more people available with the right skills than if we use licensed software”<em>government official interviewee</em></strong></p>
 
 
 Some governments have found that an additional longer term benefit to adopting open source software languages (such as php or python), and the software built in those languages, is that they can more easily find good developers. One reason for this is that the barriers to learning proprietary systems (languages, databases, etc) are high. A developer or their organisation needs to be able to afford the licenses, and training materials are often expensive. The barriers to learning open source software are much lower. For trainee developers the only costs are access to a computer, the internet, and time.
@@ -570,7 +565,7 @@ Successful use of open source software usually requires the presence of a commun
 
 Building this ecosystem might mean encouraging existing local vendors to change their approach. Closed, proprietary software, built bespoke, can be a more attractive prospect for a vendor to sell, as they have more control. Governments may need to engage with the local vendor ecosystem to help them move from commercial models where they earn money from licenses, to a model where they earn money from consultancy, service, and support.
 
-<p style="text-align: right">
+
 <strong><em>“Open source can require a higher level of tech expertise. You have to deeply understand the codebase of the software you’re adopting in order to customise it, and accept the decisions developers have made", </em>government official interviewee</strong></p>
 
 
@@ -659,7 +654,7 @@ As a government moves from smaller experiments and pilots to scale a service wit
 *   **Software-as-a-service** - for a simple implementation without many custom elements, this could be a support and maintenance service provided by the developer of the open source software, or through a separate vendor. See also, Ecosystem of vendors (p.23).
 *   **Full commercial support** - for a complex or heavily custom implementation, commercial support could include day-to-day first line support for users, disaster recovery and fixes, as well as senior level points of contact (for big decisions, policy, and changes in needs which might affect a whole service). 
 
-**Engagement with the global open source community **
+**Engagement with the global open source community**
 
 If governments use open source software solutions, tools and infrastructure, it allows them to access a vast pool of online resources. For example, on the platform Stack Overflow developers can ask questions of other users. About 50 million people visit Stack Overflow each month[^25], with 21 million questions asked in 2021. It is very often possible to reuse or adapt a solution that has been developed for a similar problem. 
 
@@ -708,7 +703,7 @@ Our research showed that open source software adoption is highly variable betwee
 
 The Government of Uruguay’s success with open source is reflected by their strengths along the four dimensions of the Open Source Capability Model. The country has built a policy and legal environment with support for open source from the highest levels of government, from the very early stages. This support has been skillfully leveraged by the government’s central technology team to secure long-term commitments to building open source skills and experience. This allowed the team not only to manage, maintain and scale open source, but also to create internal trust and external engagement with the wider ecosystem. 
 
-**Case study: Leading digital government, Uruguay **
+**Case study: Leading digital government, Uruguay**
 
 Uruguay is considered to be the most digitally advanced country in Latin America, with digital identified as a priority since the publication of its first Digital Agenda in 2007. To deliver on this priority, the government created the Agency for the Development of Digital Government or AGESIC, in 2005. Starting in 2007 and through Law 18,172, AGESIC was assigned the function of "Promoting the advancement of the Information and Knowledge Society, promoting that people, companies and the government make the best use of technology, information and communications". Uruguay has maintained a consistent high placing in the UN e-Government rankings, ranking 34 for e-Government (2018, 2016) and first in Latin America.
 
@@ -727,7 +722,7 @@ AGESIC has evolved into a global perspective of [Public Software](https://github
 
 # Further reading 
 
-**Reports **
+**Reports**
 
 Arensen, H. (2020) ‘5 Things Digital Public Good Software Projects Need to Scale’, Digital Impact Alliance. Available at [https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/](https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/) 
 
