@@ -486,7 +486,7 @@ Building good practice into making technology decisions in government, and using
 * Can consensus be found in the strategic objectives for adopting open source?
 * Would developing – or amending – a decree, policy or law encourage use of open source software in government? If yes, how feasible is this, and in what timeframe?
 
-* **Publish and promote a technology strategy for use across government, including clear objectives for open source software. **
+* **Publish and promote a technology strategy for use across government, including clear objectives for open source software.**
 * If you have a policy, consider how the policy will be enforced, and is the use of open source monitored?
 
 
