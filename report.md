@@ -34,9 +34,6 @@ To discuss this report, or to provide feedback, please email [contact@public.dig
 [TOC]
 
 
-
-
-
 # Executive summary 
 
 Governments globally have sought to digitise their operations and services for many years. Covid-19 has made this an imperative: countries that have been able to serve their citizens remotely have seen the benefits of their digitisation efforts; those further behind have seen the gap more acutely. 
@@ -44,8 +41,6 @@ Governments globally have sought to digitise their operations and services for m
 Adoption of open source software is a powerful tool to accelerate digitisation; it allows governments to share and reuse solutions across borders; to quickly experiment and pilot services without complex and expensive procurement, and then scale at a lower marginal cost. In the best cases, a global community can be created and connected through an open source software project, will share ideas and best practices, and help to deliver more sustainable and flexible services. 
 
 Open source software can also be a powerful lever for change. It can:
-
-
 
 *   enable greater digital sovereignty by helping governments to move away from contracts where they are locked-in to specific vendors for decades at a time
 *   support the development of local or regional digital economies
@@ -70,44 +65,26 @@ Like any software choice, open source choices should be made in terms of the ser
 
 **(1) Policy environment**
 
-
-    Build political consensus and support for open source software adoption, to strengthen long-term sustainability.
-
-
-    Publish and promote a technology strategy for use across government, including clear objectives for open source software. 
+* Build political consensus and support for open source software adoption, to strengthen long-term sustainability.
+* Publish and promote a technology strategy for use across government, including clear objectives for open source software. 
 
 **(2) In-house skills and capabilities**
 
-
-    Make a central official or team responsible for setting open source standards and policy, to support and guide its use in government. 
-
-
-    Find champions and develop the government’s internal open source community.
-
-
-    Take steps to encourage reuse within government, including finding opportunities to release publicly-funded code in the open. 
+* Make a central official or team responsible for setting open source standards and policy, to support and guide its use in government. 
+* Find champions and develop the government’s internal open source community.
+* Take steps to encourage reuse within government, including finding opportunities to release publicly-funded code in the open. 
 
 **(3) Open source vendor ecosystem**
 
-
-    Review procurement policies and practices to ensure they aren’t inadvertently blocking open source software. 
-
-
-    In the longer term, develop a range of appropriate procurement options for buying software and related services.
-
-
-    Grow and support the local ecosystem of vendors, including promoting new business and delivery models built around open source software.
+* Review procurement policies and practices to ensure they aren’t inadvertently blocking open source software. 
+* In the longer term, develop a range of appropriate procurement options for buying software and related services.
+* Grow and support the local ecosystem of vendors, including promoting new business and delivery models built around open source software.
 
 **(4) Sustainability**
 
-
-    Evaluate the short and long term costs of open source software projects, using early experiments and pilots to understand the implementation, maintenance and support costs of the service. 
-
-
-    Consider and evaluate what ownership and support model will be needed to support your implementation
-
-
-    Contribute to the open source community: share experiences in the open, support the development of local technical expertise and contribute practically by encouraging contributions to open source projects. 
+* Evaluate the short and long term costs of open source software projects, using early experiments and pilots to understand the implementation, maintenance and support costs of the service. 
+* Consider and evaluate what ownership and support model will be needed to support your implementation
+* Contribute to the open source community: share experiences in the open, support the development of local technical expertise and contribute practically by encouraging contributions to open source projects. 
 
 Many of these recommendations are good practices for all government technology, and will benefit the quality and sustainability of digital public services in general, not just those using open source.
 
@@ -133,8 +110,6 @@ We have chosen not to use the term “free and open source software”, or FOSS,
 Open source software can be a powerful lever for change, giving teams greater flexibility on how they solve problems and develop services based on users’ needs[^6].
 
 Where countries have been locked into proprietary software systems for a long time, they may be experiencing a number of undesirable side-effects, such as:
-
-
 
 *   exploding costs for licenses, implementation and maintenance, without the option to move to another vendor
 *   a lack of control of (and sometimes lack of access to) citizen or government data
@@ -170,8 +145,6 @@ This paper has primarily been written for decision-makers and technology special
 
 This paper is divided into the following sections:
 
-
-
 *   **Open Source Capability Model for Governments** (page 11) introduces a new framework for assessing open source software knowledge, skills and experience in government.
 *   **Conditions for success **(page 18) examines each dimension of the capability model in more detail, and provides practical considerations and questions for governments.
 *   **Conclusion** (page 31) summarises the main takeaways for decision-makers
@@ -184,14 +157,9 @@ Our research methodology for this white paper has been qualitative, and primaril
 We also spoke to a range of key experts in the open source software community and civil society to get a greater understanding of some of the challenges governments face. This helped us gather insights into the use of open source software in a wide variety of institutional contexts. This was supported by desk research, to gather best practice examples and other relevant research, to supplement Public Digital’s knowledge and expertise.
 
 
-# 
-
-
 # Open Source Capability Model for Governments
 
 Our research found that the extent of open source software use is highly variable between governments. We found that governments achieving successful outcomes with open source software have embedded practices and policies across four dimensions of capability[^11]: 
-
-
 
 1. **Policy environment:** political leadership and legislation; government standards and policy.
 2. **In-house skills and capabilities: **open source leadership and coordination; technical skills or experience in implementing open source software.
@@ -213,9 +181,6 @@ The model does not require an extensive research or benchmarking exercise. Gover
 It is not necessary for a government to be “high” on all dimensions of this model to use open source software successfully. But self-assessing as “low” on all or most dimensions of this model could prompt a discussion around the extra support the team working on an initiative involving open source may need.
 
 Like any model, this is a simplification of reality. It is not intended to be exhaustive. We have chosen the most important factors according to our research. We are keen to receive feedback, and would encourage readers to test this model and get in touch. We hope to continue to iterate and improve this model to make it as useful as possible a tool for governments and development partners. 
-
-
-## 
 
 
 ## Open Source Capability Model for Governments
@@ -426,15 +391,9 @@ Government is able to evidence its contributions, and secure funding for importa
 </table>
 
 
-
-# 
-
-
 # Conditions for success 
 
 In this section we consider the conditions for success when using open source software, through the lens of the four capability dimensions: 
-
-
 
 1. Policy environment
 2. In-house skills and capabilities
@@ -476,8 +435,6 @@ These myths have the potential to scupper an approach or strategy to service del
 As a starting point, governments should ensure that policies and regulations do not get in the way of making open source technology choices. Publishing standards and policies that empower officials to make the most from open source software should be the next step. 
 
 This could include:
-
-
 
 *   **A technology strategy that promotes the use of open source software**[^16], supports an open architecture approach (building systems from discrete, well-defined components integrated using open standards) and explicitly encourages reuse within a public administration[^17] 
 
@@ -521,7 +478,7 @@ Even in very small governments, or governments with limited technical capacity, 
 
 In settings with significant capacity to direct open source policy, or where it is a political priority, it might be appropriate to set up an Open Source Programme Office, or OSPO. This practice, taken from the private sector, is gaining popularity as a way to institutionalise use of open source in the academic and public sectors[^19].
 
- \
+
 **Technical skills or experience in implementing open source software**
 
 Having the right skills to implement open source software does not necessarily mean having teams of in-house developers and significant technical capacity within the government itself.
@@ -559,10 +516,6 @@ Take steps to encourage reuse within government, including finding opportunities
 Are government teams actively encouraged to communicate across government, helping to highlight opportunities for reuse? 
 Are teams thinking about sharing code as they develop it? Are they writing good documentation that would help others reuse?
 ```
-
-
-
-## 
 
 
 ## 3. Open source vendor ecosystem
@@ -639,8 +592,6 @@ Our interviews highlighted a need to make governments aware of the costs that ar
 
 Open source software provides a different model for making these calculations. Rather than having to make Total Cost of Ownership (TCO) calculations based on vendors' promises, open source software allows governments to run experiments or pilots to determine things like: 
 
-
-
 *   Does this software do what is needed? 
 *   How much customisation is involved? 
 *   What are the different scaling options?
@@ -686,15 +637,13 @@ The ability to learn from others and the way they have implemented open source s
 
 Furthermore, being a “good citizen” within the open source software community is often a sign of maturity when considering using open source platforms. The Linux Foundation undertook a survey of organisations globally to assess their level of participation in the open source community[^26]. To assess their level of participation, respondents considered how much they, if ever, engaged in:
 
-
-
 *   consuming open source code in products or services
 *   contributing to upstream open source projects
 *   collaborating with peers across open source projects and/or foundations
 *   initiating or releasing open source projects
 *   influencing open source projects via leadership or maintainer roles
 
-    ```
+```
 Considerations for governments
 Evaluate the short and long term costs of open source software projects, using early experiments and pilots to understand the implementation, maintenance and support costs of the service. 
 How are the costs of long term maintenance and implementation factored into funding bids and government budgets?
@@ -705,10 +654,6 @@ If you're planning a larger implementation, then how will you develop sustainabi
 Contribute to the open source community: share experiences in the open, support the development of local technical expertise and contribute practically by encouraging contributions to open source projects. 
 Is the team able to learn and share experiences in the open with the wider community? Have they considered adopting what other governments are doing?
 ```
-
-
-
-
 
 
 # Conclusion: Invest in the conditions for success
@@ -723,15 +668,9 @@ Investing in the conditions for success will help governments get the most from 
 
 **We have made a series of recommendations for governments to consider:**
 
-**[DRAFTING NOTE _ SYNC WITH THE RECOMMENDATIONS ON PAGE 4] **
-
 These recommendations have deep implications, but governments can start on them rapidly. Identifying an initiative, building a team around it, and giving them the political backing to work differently is the first step. 
 
 Governments can realise important benefits from investing in their open source capabilities: more strategic control of technology, and ultimately, better services and outcomes for citizens. 
-
-
-# 
-
 
 # Appendix - Government of Uruguay case study 
 
@@ -742,8 +681,6 @@ The Government of Uruguay’s success with open source is reflected by their str
 **Case study: Leading digital government, Uruguay **
 
 Uruguay is considered to be the most digitally advanced country in Latin America, with digital identified as a priority since the publication of its first Digital Agenda in 2007. To deliver on this priority, the government created the Agency for the Development of Digital Government or AGESIC, in 2005. Starting in 2007 and through Law 18,172, AGESIC was assigned the function of "Promoting the advancement of the Information and Knowledge Society, promoting that people, companies and the government make the best use of technology, information and communications". Uruguay has maintained a consistent high placing in the UN e-Government rankings, ranking 34 for e-Government (2018, 2016) and first in Latin America.
-
- 
 
 AGESIC is responsible for the development of technology platforms and solutions, and their application for the development of digital government in public organisations. In addition AGESIC plays a leading role in setting IT policy, and promotes the development of capacity in IT of public organisations.
 
