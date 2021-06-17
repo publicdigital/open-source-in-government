@@ -521,8 +521,7 @@ It is common for governments promoting the use of open source software to encour
 
 
 
-<strong><em>[When using open source] "it's easier to find developers. There are more people available with the right skills than if we use licensed software”<em>government official interviewee</em></strong></p>
-
+<strong><em>[When using open source] "it's easier to find developers. There are more people available with the right skills than if we use licensed software”,</em>government official interviewee</em>.</strong></p>
 
 Some governments have found that an additional longer term benefit to adopting open source software languages (such as php or python), and the software built in those languages, is that they can more easily find good developers. One reason for this is that the barriers to learning proprietary systems (languages, databases, etc) are high. A developer or their organisation needs to be able to afford the licenses, and training materials are often expensive. The barriers to learning open source software are much lower. For trainee developers the only costs are access to a computer, the internet, and time.
 
