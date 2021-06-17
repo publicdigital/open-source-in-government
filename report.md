@@ -23,15 +23,49 @@ This report was prepared for Public Digital by Emma Gawen, Anna Hirschfeld, Ange
 
 About this report
 
-This report was released [DATE] 2021 under a Creative Commons Attribution-ShareAlike 4.0 license, and should be cited as: Public Digital, Open source in government: creating the conditions for success, 2021. Available at [https://public.digital/](https://public.digital/) 
+This report was released June 2021 under a Creative Commons Attribution-ShareAlike 4.0 license, and should be cited as: Public Digital, Open source in government: creating the conditions for success, 2021. Available at [https://public.digital/](https://public.digital/) 
 
 To discuss this report, or to provide feedback, please email [contact@public.digital](mailto:contact@public.digital)
 
 
 # Contents
 
+**About Public Digital** 
 
-[TOC]
+* Acknowledgements 
+
+* About this report
+
+**Contents**
+
+**Executive summary**
+
+**Introduction** 
+
+* What is open source software?
+
+* The advantages of open source software
+
+* Structure of this report
+
+* Our methodology 
+
+**Open Source Capability Model for Governments**  
+
+**Conditions for success** 
+
+1. Policy environment
+2. In-house skills and capabilities
+3. Open source vendor ecosystem
+4. Sustainability
+
+**Conclusion: Invest in the conditions for success** 
+
+**Appendix – Government of Uruguay case study**  
+
+**Further reading** 
+
+**Notes**
 
 
 # Executive summary 
