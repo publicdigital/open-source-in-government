@@ -480,17 +480,14 @@ For example, in Portugal, by law, central government bodies must submit their IC
 Building good practice into making technology decisions in government, and using published guidance and standards as a way to evaluate vendors and potential solutions, will likely lead to improved adoption of open source software.
 
 
-```
-Considerations for governments
-Build political consensus and support for open source software adoption, to strengthen long-term sustainability.
-Are there ministers and/or senior officials willing to be champions for open source software both inside and outside the government? 
-Can consensus be found in the strategic objectives for adopting open source?
-Would developing – or amending – a decree, policy or law encourage use of open source software in government? If yes, how feasible is this, and in what timeframe?
+### Considerations for governments
+* **Build political consensus and support for open source software adoption, to strengthen long-term sustainability.**
+* Are there ministers and/or senior officials willing to be champions for open source software both inside and outside the government? 
+* Can consensus be found in the strategic objectives for adopting open source?
+* Would developing – or amending – a decree, policy or law encourage use of open source software in government? If yes, how feasible is this, and in what timeframe?
 
-Publish and promote a technology strategy for use across government, including clear objectives for open source software. 
-If you have a policy, consider how the policy will be enforced, and is the use of open source monitored?
-
-```
+* **Publish and promote a technology strategy for use across government, including clear objectives for open source software. **
+* If you have a policy, consider how the policy will be enforced, and is the use of open source monitored?
 
 
 
@@ -526,20 +523,18 @@ It is common for governments promoting the use of open source software to encour
 Some governments have found that an additional longer term benefit to adopting open source software languages (such as php or python), and the software built in those languages, is that they can more easily find good developers. One reason for this is that the barriers to learning proprietary systems (languages, databases, etc) are high. A developer or their organisation needs to be able to afford the licenses, and training materials are often expensive. The barriers to learning open source software are much lower. For trainee developers the only costs are access to a computer, the internet, and time.
 
 
-```
-Considerations for governments
+### Considerations for governments
 
-Make a central official or team responsible for setting open source standards and policy, to support and guide its use in government. 
-What is best practice across government? Is it possible to openly share the experience using open source, for example through blogs, news articles and events? 
-What technical skills do teams have in-house? Which are missing? 
+* **Make a central official or team responsible for setting open source standards and policy, to support and guide its use in government.**
+* What is best practice across government? Is it possible to openly share the experience using open source, for example through blogs, news articles and events? 
+* What technical skills do teams have in-house? Which are missing? 
 
-Find champions and develop the governments' internal community around open source.
-Who is already using open source in government? What best practices can be used and developed further for wider good? 
+* **Find champions and develop the governments' internal community around open source.**
+* Who is already using open source in government? What best practices can be used and developed further for wider good? 
 
-Take steps to encourage reuse within government, including finding opportunities to release publicly-funded code in the open. 
-Are government teams actively encouraged to communicate across government, helping to highlight opportunities for reuse? 
-Are teams thinking about sharing code as they develop it? Are they writing good documentation that would help others reuse?
-```
+* **Take steps to encourage reuse within government, including finding opportunities to release publicly-funded code in the open.**
+* Are government teams actively encouraged to communicate across government, helping to highlight opportunities for reuse? 
+* Are teams thinking about sharing code as they develop it? Are they writing good documentation that would help others reuse?
 
 
 ## 3. Open source vendor ecosystem
@@ -581,25 +576,19 @@ A wide ecosystem of vendors (including SMEs and large vendors) that the governme
 Governments can also reach out to developers more directly through local developer communities, or by partnering with education providers. 
 
 
-```
-Considerations for governments
+### Considerations for governments
 
-Review procurement policies and practices to ensure they aren't inadvertently blocking open source software. 
-Are policies around using only enterprise-approved tools blocking teams from experimentation with open source software? 
-Can policies be changed, or is there an opportunity to develop new policies that remove these blockers?
-In the longer term, develop a range of appropriate procurement options for buying software and related services.
-Are procurement processes outcome driven?
-Can procurement processes manage the ambiguity of evolving requirements?
+* **Review procurement policies and practices to ensure they aren't inadvertently blocking open source software.**
+* Are policies around using only enterprise-approved tools blocking teams from experimentation with open source software? 
+* Can policies be changed, or is there an opportunity to develop new policies that remove these blockers?
+* In the longer term, develop a range of appropriate procurement options for buying software and related services.
+* Are procurement processes outcome driven?
+* Can procurement processes manage the ambiguity of evolving requirements?
 
-Grow and support the local ecosystem of vendors, including promoting new business and delivery models built around open source software.
-How strong is the local community of developers or vendors? 
-How close is the government's relationship with this community? 
-How can it help grow and support the community, and promote new business and delivery models?
-```
-
-
-
-## 
+* **Grow and support the local ecosystem of vendors, including promoting new business and delivery models built around open source software.**
+* How strong is the local community of developers or vendors? 
+* How close is the government's relationship with this community? 
+* How can it help grow and support the community, and promote new business and delivery models?
 
 
 ## 4. Sustainability
@@ -667,17 +656,16 @@ Furthermore, being a “good citizen” within the open source software communit
 *   initiating or releasing open source projects
 *   influencing open source projects via leadership or maintainer roles
 
-```
-Considerations for governments
-Evaluate the short and long term costs of open source software projects, using early experiments and pilots to understand the implementation, maintenance and support costs of the service. 
-How are the costs of long term maintenance and implementation factored into funding bids and government budgets?
-How will open source software be maintained and supported? Does the support capacity you have (in-house or through accessible vendors) match the complexity of the software? Or, what other open source projects can they start with first?
-Consider and evaluate what ownership and support model will be needed to support your implementation
-If you are building a small experiment with a few users, do you have the internal capability to support it? 
-If you're planning a larger implementation, then how will you develop sustainability and scalability? Could you partner with local developer communities or universities? 
-Contribute to the open source community: share experiences in the open, support the development of local technical expertise and contribute practically by encouraging contributions to open source projects. 
-Is the team able to learn and share experiences in the open with the wider community? Have they considered adopting what other governments are doing?
-```
+### Considerations for governments
+
+* **Evaluate the short and long term costs of open source software projects, using early experiments and pilots to understand the implementation, maintenance and support costs of the service.**
+* How are the costs of long term maintenance and implementation factored into funding bids and government budgets?
+* How will open source software be maintained and supported? Does the support capacity you have (in-house or through accessible vendors) match the complexity of the software? Or, what other open source projects can they start with first?
+* Consider and evaluate what ownership and support model will be needed to support your implementation
+* If you are building a small experiment with a few users, do you have the internal capability to support it? 
+* If you're planning a larger implementation, then how will you develop sustainability and scalability? Could you partner with local developer communities or universities? 
+* Contribute to the open source community: share experiences in the open, support the development of local technical expertise and contribute practically by encouraging contributions to open source projects. 
+* Is the team able to learn and share experiences in the open with the wider community? Have they considered adopting what other governments are doing?
 
 
 # Conclusion: Invest in the conditions for success
