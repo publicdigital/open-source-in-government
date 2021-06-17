@@ -33,7 +33,6 @@ To discuss this report, or to provide feedback, please email [contact@public.dig
 **About Public Digital** 
 
 * Acknowledgements 
-
 * About this report
 
 **Contents**
@@ -43,11 +42,8 @@ To discuss this report, or to provide feedback, please email [contact@public.dig
 **Introduction** 
 
 * What is open source software?
-
 * The advantages of open source software
-
 * Structure of this report
-
 * Our methodology 
 
 **Open Source Capability Model for Governments**  
