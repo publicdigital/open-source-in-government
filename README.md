@@ -21,7 +21,7 @@ Public Digital is a disruptive global consultancy that helps organisations that 
 
 ## Acknowledgements
 
-This report was prepared for Public Digital by Emma Gawen, Anna Hirschfeld, Angeles Kenny, James Stewart and Emily Middleton. It was made possible through the generous support of the Omidyar Network. The views herein, however, do not necessarily reflect those of the funder. We would also like to thank input from colleagues at the World Bank, New Legacy Digital, NORAD, MOSIP, Mojaloop, e-Governance Academy (eGA), Open Forum Europe, UNICEF; and representatives of the governments of Bangladesh, Cote d'Ivoire, Morocco, Peru, Portugal, Sierra Leone, United Kingdom and Uruguay, who were generous with their time and introductions. 
+This report was prepared for Public Digital by Emma Gawen, Anna Hirschfeld, Angeles Kenny, James Stewart and Emily Middleton. It was made possible through the generous support of the Omidyar Network. The views herein, however, do not necessarily reflect those of the funder. We would also like to thank input from colleagues at the World Bank, New Legacy Digital, NORAD, MOSIP, Mojaloop, e-Governance Academy (eGA), Open Forum Europe, UNICEF, Digital Impact Alliance (DIAL); and representatives of the governments of Bangladesh, Cote d'Ivoire, Morocco, Peru, Portugal, Sierra Leone, United Kingdom and Uruguay, who were generous with their time and introductions. 
 
 About this summary
 
